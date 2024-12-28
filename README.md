@@ -17,6 +17,3 @@ This project performs customer segmentation using K-Means clustering algorithm. 
 - seaborn
 - scikit-learn
 
-To run the notebook:
-1. Upload your dataset to Google Colab.
-2. Execute the notebook cells step by step.
